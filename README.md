@@ -1,2 +1,2 @@
-# ceit.lab 123
+# ceit.lab
 echo 'hello world'
